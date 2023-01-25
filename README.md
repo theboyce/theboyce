@@ -1,7 +1,7 @@
 ### Hi there, I'm Joseph 👋
 
 
-I'm a UX/UI Designer passionate about designing amazing with  lovely user experiences to solve problems
+I'm a UX/UI Designer passionate about designing amazing products with  lovely user experiences to solve problems
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m am open to collaboration
 - 💬 Ask me about Design and Figma
