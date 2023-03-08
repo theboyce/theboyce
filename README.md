@@ -2,7 +2,7 @@
 
 
 I'm a UX/UI Designer passionate about designing amazing products with  lovely user experiences to solve problems
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I’m currently learning JavaScript
 - 👯 I’m am open to collaboration
 - 💬 Ask me about Design and Figma
 - 📫 You can reach me on kwabenaadofo330@gmail.com
