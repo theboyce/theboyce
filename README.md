@@ -1,10 +1,10 @@
 ### Hi there, I'm Joseph 👋
 
 
-I'm a UX/UI Designer passionate about designing amazing products with  lovely user experiences to solve problems
-- 🌱 I’m currently learning JavaScript
+I'm a UX/UI Designer and a Frontend Developer passionate about designing amazing products with  lovely user experiences to solve problems
+- 🌱 I’m currently learning JavaScript (React)
 - 👯 I’m am open to collaboration
-- 💬 Ask me about Design and Figma
+- 💬 Ask me about Design, Figma and JavaScript
 - 📫 You can reach me on kwabenaadofo330@gmail.com
 - ⚡ Fun fact: I am a design addict
 
