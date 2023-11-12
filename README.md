@@ -6,7 +6,7 @@ I'm a UX/UI Designer and a Frontend Developer passionate about designing amazing
 - 👯 I’m am open to collaboration
 - 💬 Ask me about Design, Figma and JavaScript
 - 📫 You can reach me on kwabenaadofo330@gmail.com
-- ⚡ Fun fact: I am a design addict
+- ⚡ Fun fact: I love to solve problems
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/kwabenaadofo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephadofo/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/boycethegreat) 
